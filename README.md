@@ -14,3 +14,4 @@ Lo que use para desarrollar el backend del proyecto fue:
 
 ## Generales del proyecto
  - El Front del proyecto lo realice con Laravel para tener el proyecto mas organizado. [Clic para ver repositorio de Front](https://github.com/AbinadadMoralesMontan/FrontBIM-PruebaTecnica)
+ - Configuración: **src/main/resources/application.properties**
